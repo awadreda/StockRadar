@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CGGZTrBQQGt8Q7+SDnwkYyhh09VPrkgtmg/QYHvjSXg=",
+  "Source": "stockRaderApi",
+  "BasePath": "_content/stockRaderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
